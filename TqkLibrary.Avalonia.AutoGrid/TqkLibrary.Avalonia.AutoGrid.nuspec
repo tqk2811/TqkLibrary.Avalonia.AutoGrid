@@ -3,7 +3,7 @@
 	<!--https://docs.microsoft.com/en-us/nuget/reference/nuspec-->
 	<metadata>
 		<id>$id$</id>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<description>Magical replacement for the default WPF Grid.</description>
 		<authors>tqk2811</authors>
 		<readme>docs\README.md</readme>
